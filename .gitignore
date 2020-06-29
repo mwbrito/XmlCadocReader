@@ -1,0 +1,9 @@
+# compiled output
+XmlCadocReader/bin/
+XmlCadocReader/obj/
+
+XmlCadocReaderTest/bin/
+XmlCadocReaderTest/obj/
+
+# dependencies
+packages/

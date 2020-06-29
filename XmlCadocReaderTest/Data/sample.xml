@@ -1,0 +1,14 @@
+﻿<Doc3040 DtBase="2014-02">
+  <Cli Tp="2" Cd ="003818">
+    <Op DetCli="000000223">
+      <Venc v110="1000" />
+      <Gar Tp="0902" />
+    </Op>
+  </Cli>
+  <Agre Mod="0101">
+    <Venc v110="2000" />
+  </Agre>
+  <Agre Mod="2002">
+    <Venc v110="3000" />
+  </Agre>
+</Doc3040>
