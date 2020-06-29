@@ -7,3 +7,6 @@ XmlCadocReaderTest/obj/
 
 # dependencies
 packages/
+
+# visual studio file
+.vs/
